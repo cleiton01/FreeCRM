@@ -1,0 +1,75 @@
+
+#Lead
+ - Novo 
+ - Editar
+ - Remover
+ - Listar
+
+#Oportunidade
+ - Novo 
+ - Editar
+ - Remover
+ 
+#Conta
+ - Novo 
+ - Editar
+ - Listar
+ 
+#Pedido
+ - Novo 
+ - Editar
+ - Remover
+ - Listar
+
+#Campanha
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+ 
+#Life cycle customer
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+ 
+#Eventos
+
+#Casos(Chamados)
+ - Novo 
+ - Editar
+ - Remover
+ - Listar
+ 
+#atendimento casos
+
+#Produto
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+ 
+#Preço
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+ 
+#Fatura(Layout)
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+
+#access rights
+
+#modelo de contrato
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
+#modelo de documentos
+ - Novo 
+ - Editar
+ - Desativar
+ - Listar
