@@ -1,0 +1,22 @@
+{
+  "name": "freecrm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleiton01/FreeCRM.git"
+  },
+  "author": "Cleiton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleiton01/FreeCRM/issues"
+  },
+  "homepage": "https://github.com/cleiton01/FreeCRM#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
