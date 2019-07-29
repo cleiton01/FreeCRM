@@ -1,0 +1,39 @@
+This documents describe the requirement for lead funcionality.
+
+Name
+    Name of the person.
+    This is the name of contact for the sales person.
+    This field is required, and never shall be empty.
+
+e-mail
+    company e-mail to contact.
+    This field is required, and never shall be empty.
+
+phone
+    Person phone to concatc.
+    This field is required, and never shall be empty.
+
+company
+    company name where the person works.
+
+Job title
+    Job title of the person.
+
+company web site
+    Main web site of the company.
+
+company size in employer
+    this field is customanizer information, but to start could be used the information bellow.
+    less then 200 employees
+    Between 200 and 400 employees
+    Between 400 and 800 employees
+    Between 800 and 2000 employees
+    More then 2000 employees
+
+Origin
+    Origin variable store the URL of the page used by the person to register. 
+
+System ID
+    System identifier, never should be visible for user.
+    This identifier is create by the system and never change.
+

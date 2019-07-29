@@ -1,0 +1,15 @@
+This documents describe the requirement for account funcionality.
+
+company Name
+company identifier
+company Size
+company sector
+annual revenue
+headquarter
+    Boolean
+register 
+    datetime
+last update 
+    datatime
+
+system ID
