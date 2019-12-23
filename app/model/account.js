@@ -1,7 +1,7 @@
 
 const date = require('date-and-time');
 
-class account{
+class Account{
     /*
     company Size
     company sector
@@ -41,3 +41,5 @@ class account{
 
 
 }
+
+module.exports = Account;
